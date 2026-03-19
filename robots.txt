@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alijeewrites.github.io/make-money-selling-canva-templates-complete-beginners-guide/sitemap.xml
