@@ -4,15 +4,11 @@ If you’re looking for a way to build a side hustle that actually works in 2026
 
 This guide will walk you through the entire process. We’ll cover everything from finding your niche to setting up your shop. If you want a digital product business that runs on autopilot, this is for you.
 
----
-
 ## Why You Should Start Selling Canva Templates Now
 
 The digital products market is booming. Small business owners, influencers, and teachers are busier than ever. They don’t have time to design everything from scratch. They need high-quality, easy-to-edit layouts that save them hours of work.
 
 When you **make money selling Canva templates**, you’re selling time. That’s why it’s so profitable. You create the design once, and you can sell it thousands of times. It is the definition of passive income.
-
----
 
 ## Step 1: Find a Profitable Niche
 
@@ -27,8 +23,6 @@ You might be tempted to make "general" social media posts. Don't do that. The "g
 
 When you pick a niche, you become the expert for that group. It makes your marketing much easier and helps you rank for specific search terms.
 
----
-
 ## Step 2: Set Up Your Canva Workspace
 
 Before you start designing, you need to understand the rules. You cannot just take a pre-made Canva template, change the colors, and sell it. That’s against their terms. You must create your designs from a blank canvas.
@@ -40,8 +34,6 @@ To speed up your workflow, you can use [Canva AI](https://www.canva.com/ai) to g
 * **Stick to a Color Palette:** Use three to five cohesive colors. This makes your templates look professional and high-end.
 * **Keep Fonts Simple:** Use two fonts at most (one for headings and one for body text).
 * **Group Elements:** This helps your customers move things around without breaking the layout.
-
----
 
 ## Step 3: How to Make Money Selling Canva Templates Legally
 
@@ -55,8 +47,6 @@ To sell a template, you aren't sending a PDF or a JPG. You are sending a **Canva
 
 Never share the "Edit" link. If you do, the buyer will edit your original master file instead of their own copy.
 
----
-
 ## Step 4: Create a Delivery PDF
 
 Since you can't upload a raw link to marketplaces like Etsy or Gumroad, you need a "delivery vehicle." This is usually a simple one-page PDF.
@@ -66,8 +56,6 @@ Since you can't upload a raw link to marketplaces like Etsy or Gumroad, you need
 * **The Template Link:** Use a clear button or a big link that says "Click Here to Access Your Templates."
 * **Instructions:** Briefly explain how to use the link.
 * **Support Link:** Give them an email address to contact if they have questions.
-
----
 
 ## Step 5: Where to Sell Your Canva Templates
 
@@ -81,8 +69,6 @@ There are several platforms where you can list your products. Each has its own p
 
 If you are ready to launch your shop today and want a proven blueprint to follow, you can grab the [Make Money Selling Canva Templates Complete Guide](https://sevensky.gumroad.com/l/make-money-selling-canva-templates-beginners-guide) to skip the trial and error.
 
----
-
 ## Step 6: SEO for Canva Templates
 
 If you want to **make money selling Canva templates** without spending all day on social media, you need SEO. This means using the right keywords so people find you on Google and Etsy.
@@ -94,15 +80,11 @@ If you want to **make money selling Canva templates** without spending all day o
 
 Search engines love lists and clear headers. Make sure you describe exactly what the buyer gets.
 
----
-
 ## Step 7: Marketing Your Templates
 
 Once your shop is live, you need to tell people about it. Pinterest is a goldmine for digital products. Create "pins" that show the "Before and After" of using your template.
 
 TikTok and Instagram Reels are also great. Show a screen recording of you editing a template in 30 seconds. This proves to the customer that it’s easy to use and saves them time.
-
----
 
 ## Common Mistakes to Avoid
 
@@ -111,15 +93,11 @@ Many beginners fail because they make these simple errors:
 2. **Ignoring Mobile Users:** Many people edit on the Canva mobile app. Make sure your text is large enough to read on a phone.
 3. **No Market Research:** Don't guess what people want. Look at the "Best Seller" badges on Etsy to see what is actually moving.
 
----
-
 ## Scaling Your Business
 
 Once you have a few templates selling, start bundling them. Instead of selling one Instagram pack for $10, sell a "Social Media Business Starter Kit" for $45. This bundle could include Instagram posts, Stories, Pinterest pins, and a Brand Guide.
 
 Bundles have a much higher "perceived value." Customers love feeling like they got a deal, and you make more money per sale.
-
----
 
 ## Conclusion
 
