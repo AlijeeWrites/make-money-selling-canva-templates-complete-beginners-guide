@@ -1,5 +1,5 @@
 # Make Money Selling Canva Templates: A Complete Beginners Guide
-
+<meta name="google-site-verification" content="vIyg9az0wOcJpIU_SlC33TSdLMGP9r72G1CJuZ5g6yQ" />
 If you’re looking for a way to build a side hustle that actually works in 2026, you’ve probably heard of Canva. Most people use it to make a quick Instagram post or a resume. But did you know there’s a massive market of people willing to pay for your designs? You can **make money selling Canva templates** even if you aren’t a professional graphic designer.
 
 This guide will walk you through the entire process. We’ll cover everything from finding your niche to setting up your shop. If you want a digital product business that runs on autopilot, this is for you.
